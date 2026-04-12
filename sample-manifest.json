@@ -1,0 +1,12 @@
+{
+  "export_job_id": "a4fbfafd-1cec-486e-a15c-69495725d9fc",
+  "id_short": 424504,
+  "published_at": "2026-04-12T07:49:50Z",
+  "repo_name": "tech-ready-restaurants-in-oklahoma-us-sample-424504",
+  "sample_asset_name": "beamstation_424504_restaurants-us-ok_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/424504/beamstation_424504_restaurants-us-ok_SAMPLE_DIST.csv",
+  "sample_records": 3,
+  "sample_sha256": "c821749bbc275ea3ca4d753e3b13800ba1354639914bc9105241843ffaec0a2c",
+  "sample_size_bytes": 29011,
+  "total_records": 30
+}
