@@ -1,6 +1,6 @@
 # Tech-Ready Restaurants in Oklahoma, US
 
-> Free BeamStation sample export with 3 rows and masked direct-contact fields.
+> Free BeamStation sample export with 1 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `424504` |
 | Location | Oklahoma |
 | Category | Restaurants |
-| Full dataset size | 30 records |
-| Free sample size | 3 records (10.0%) |
-| Last export | 2026-04-08T04:13:59.788813+00:00 |
+| Full dataset size | 11 records |
+| Free sample size | 1 records (9.09%) |
+| Last export | 2026-04-15T08:55:18.757328+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/tech-ready-restaurants-in-oklahoma-us-sample-424504/releases/download/sample-latest/beamstation_424504_restaurants-us-ok_SAMPLE_DIST.csv) |
 
 ## What is in this sample
